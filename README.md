@@ -78,9 +78,9 @@ If you find a bug or have ideas:
 
 ### 📧 Contact
 
-- GitHub: [Your GitHub Link]
+- GitHub: https://github.com/tonvanlam15052005-byte/Roblox-Network-Search-Project/tree/main
 - Roblox Profile: https://www.roblox.com/share?code=f8d17801fb2d12409fdbe10c0f71b3b9&type=Profile&source=ProfileShare&stamp=1785394426821
-- Discord: [Your Discord if available]
+- Discord: https://discord.gg/KNKQcrMT9j
 
 ---
 
@@ -163,9 +163,9 @@ Nếu bạn phát hiện lỗi hoặc có ý tưởng:
 
 ### 📧 Liên hệ
 
-- GitHub: [Link GitHub của bạn]
+- GitHub: https://github.com/tonvanlam15052005-byte/Roblox-Network-Search-Project/tree/main
 - Roblox Profile: https://www.roblox.com/share?code=f8d17801fb2d12409fdbe10c0f71b3b9&type=Profile&source=ProfileShare&stamp=1785394426821
-- Discord: [Tên Discord nếu có]
+- Discord: https://discord.gg/KNKQcrMT9j
 
 ---
 
