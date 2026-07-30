@@ -79,7 +79,7 @@ If you find a bug or have ideas:
 ### 📧 Contact
 
 - GitHub: [Your GitHub Link]
-- Roblox Profile: [Your Roblox Link]
+- Roblox Profile: https://www.roblox.com/share?code=f8d17801fb2d12409fdbe10c0f71b3b9&type=Profile&source=ProfileShare&stamp=1785394426821
 - Discord: [Your Discord if available]
 
 ---
@@ -164,7 +164,7 @@ Nếu bạn phát hiện lỗi hoặc có ý tưởng:
 ### 📧 Liên hệ
 
 - GitHub: [Link GitHub của bạn]
-- Roblox Profile: [Link Roblox của bạn]
+- Roblox Profile: https://www.roblox.com/share?code=f8d17801fb2d12409fdbe10c0f71b3b9&type=Profile&source=ProfileShare&stamp=1785394426821
 - Discord: [Tên Discord nếu có]
 
 ---
