@@ -67,17 +67,6 @@ This source code was developed with assistance from AI tools under the **direct 
 
 ---
 
-### 📂 Project Structure
-/
-├── LICENSE # MIT License + Additional Terms
-├── README.md # This file
-├── scripts/ # All scripts go here
-│ ├── network.lua # Network script
-│ └── search.lua # Search script
-└── examples/ # (Optional) Usage examples
-
----
-
 ### 🐛 Report Issues
 
 If you find a bug or have ideas:
@@ -160,17 +149,6 @@ Nguồn: [Link GitHub repository của bạn]
 ### 🤖 Vai trò của AI
 
 Mã nguồn được phát triển với sự hỗ trợ từ các công cụ AI dưới sự **thiết kế, kiểm thử và chỉ đạo trực tiếp** của tác giả. Mọi quyết định về kiến trúc, giải pháp và logic đều do con người đưa ra.
-
----
-
-### 📂 Cấu trúc thư mục
-/
-├── LICENSE # Giấy phép MIT + Điều khoản bổ sung
-├── README.md # File này
-├── scripts/ # Tất cả script ở đây
-│ ├── network.lua # Script mạng
-│ └── search.lua # Script tìm kiếm
-└── examples/ # (Tùy chọn) Ví dụ sử dụng
 
 ---
 
