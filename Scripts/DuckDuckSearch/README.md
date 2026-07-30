@@ -13,8 +13,8 @@ How to use this .rbxm file [ENG]
 3. Add to the game:
 - Drag and drop the model from the Toolbox into the "Workspace" or the 3D viewport in Studio.
 - Follow the instructions inside the folder.
-- 
-- Cách sử dụng file .rbxm này [VIE]
+
+Cách sử dụng file .rbxm này [VIE]
 1. Tải file về máy:
 - Trên trang GitHub của bạn, bấm vào file DuckDuckSearch-Roblox-ENG.rbxm.
 - Bấm nút "Download" (hoặc "Raw" → chuột phải → "Save link as") để lưu file về máy tính.
