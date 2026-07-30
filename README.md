@@ -15,7 +15,6 @@ This project provides scripts for networking and search functionality in Roblox,
 ---
 
 ### 🚀 Features
-*(You can edit this section)*
 
 - 🎯 Player search system
 - 🌐 Network connection management
@@ -100,7 +99,6 @@ Dự án này cung cấp các script hỗ trợ mạng và tìm kiếm trong Rob
 ---
 
 ### 🚀 Tính năng
-*(Bạn có thể chỉnh sửa phần này)*
 
 - 🎯 Hệ thống tìm kiếm người chơi
 - 🌐 Quản lý kết nối mạng
