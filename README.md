@@ -49,7 +49,7 @@ This project is distributed under the **MIT License** with additional terms to p
 
 #### 📝 Credit Requirement:
 Script by: Mr.Сунь Вэньлинь
-Source: [Link to your GitHub repository]
+Source: https://github.com/tonvanlam15052005-byte/Roblox-Network-Search-Project/tree/main
 
 ---
 
@@ -78,7 +78,7 @@ If you find a bug or have ideas:
 
 ### 📧 Contact
 
-- GitHub: https://github.com/tonvanlam15052005-byte/Roblox-Network-Search-Project/tree/main
+- GitHub: https://github.com/tonvanlam15052005-byte
 - Roblox Profile: https://www.roblox.com/share?code=f8d17801fb2d12409fdbe10c0f71b3b9&type=Profile&source=ProfileShare&stamp=1785394426821
 - Discord: https://discord.gg/KNKQcrMT9j
 
@@ -134,7 +134,7 @@ Dự án được phân phối dưới **Giấy phép MIT** kèm theo các đi�
 
 #### 📝 Yêu cầu ghi công:
 Script bởi: Mr.Сунь Вэньлинь
-Nguồn: [Link GitHub repository của bạn]
+Nguồn: https://github.com/tonvanlam15052005-byte/Roblox-Network-Search-Project/tree/main
 
 ---
 
@@ -163,7 +163,7 @@ Nếu bạn phát hiện lỗi hoặc có ý tưởng:
 
 ### 📧 Liên hệ
 
-- GitHub: https://github.com/tonvanlam15052005-byte/Roblox-Network-Search-Project/tree/main
+- GitHub: https://github.com/tonvanlam15052005-byte
 - Roblox Profile: https://www.roblox.com/share?code=f8d17801fb2d12409fdbe10c0f71b3b9&type=Profile&source=ProfileShare&stamp=1785394426821
 - Discord: https://discord.gg/KNKQcrMT9j
 
